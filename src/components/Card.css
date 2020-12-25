@@ -1,0 +1,22 @@
+.card {
+    
+  background-color: #17141d;
+ 
+  box-shadow: -1rem 0 3rem rgb(0, 0, 0);
+/*   margin-left: -50px; */
+  transition: 0.4s ease-out;
+  
+  left: 0px;
+}
+
+.card-title {
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-content {
+    color: rgba(255, 255, 255, 0.7);
+    overflow: auto;
+    min-height: 10vh;
+}
